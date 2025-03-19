@@ -2,7 +2,7 @@
 ## Análisis de webstory
 ### Who Gets Shipped And Why?
 [https://pudding.cool/2024/10/fanfic/]
-!(https://github.com/aortegd/tareas_com208/blob/main/tareas_01/imagenes/imagen1.png)
+![Alt text] (https://github.com/aortegd/tareas_com208/blob/main/tareas_01/imagenes/imagen1.png "Tittle text 1")
 
 ## 1. Historia
 La webstory publicada en **The Pudding** explora el fenómeno de los ***ships* o parejas románticas dentro de las historias de ficción creadas por fanáticos** de diferentes franquicias literarias, cinematográficas y televisivas, más conocidas como *fanfictions* o *fanfics*. **“Who Gets Shipped And Why?”** revisa qué factores hacen que **ciertos personajes sean elegidos para relaciones amorosas**, incluso cuando no están involucrados románticamente en las historias originales. 
