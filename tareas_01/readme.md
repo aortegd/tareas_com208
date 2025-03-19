@@ -35,6 +35,6 @@ En cuanto a la **presentación visual** de la historia, destaca un diseño acord
 ## 3. ¿Cómo transmite la información?
 El artículo es **eficaz** para transmitir la información porque **equilibra datos con un análisis profundo y accesible**. A través de gráficas y tablas que **ilustran las tendencias** del tema, logra **conectar con una narrativa cultural más amplia** que explica las razones detrás de esas tendencias. Además, cuenta con un **estilo visual atractivo**, con gráficos interactivos y un formato coherente temáticamente, lo que evita que la información se perciba como distante o monótona. También destacan los cuadros que enlazan a otras páginas o contenidos dentro del mismo artículo, facilitando al lector la comprensión de términos que quizás no conozca. 
 
-El único **aspecto que podría mejorar** es la **visibilidad de los capítulos**, ya que, aparecen luego de bajar por la página y, una vez que se lee el primer capítulo, los **siguientes tienden a pasar a segundo plano**. Aunque la estructura es acorde al diseño, algunos lectores podrían ignorar los siguientes capítulos. 
+El único **aspecto que podría mejorar** es la **visibilidad de los capítulos**, ya que aparecen luego de bajar por la página y, una vez que se lee el primer capítulo, los **siguientes tienden a pasar a segundo plano**. Aunque la estructura es acorde al diseño, algunos lectores podrían ignorar los siguientes apartados. 
 
 
