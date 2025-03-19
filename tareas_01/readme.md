@@ -3,7 +3,7 @@
 ### Who Gets Shipped And Why?
 [https://pudding.cool/2024/10/fanfic/]
 
-!(https://github.com/aortegd/tareas_com208/blob/main/tareas_01/imagenes/imagen1.png)
+![The Pudding](https://github.com/aortegd/tareas_com208/blob/main/tareas_01/imagenes/imagen1.png)
 
 
 ## 1. Historia
