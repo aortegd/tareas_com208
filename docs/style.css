@@ -81,6 +81,11 @@ ul, ol {
     padding-left: 20px;
 }
 
+.empresa {
+    color: #007BFF; /* Cambia este color al que prefieras */
+    font-weight: bold; /* Opcional: hace que el texto sea negrita */
+}
+
 footer {
     text-align: center;
     padding: 15px;
