@@ -10,7 +10,7 @@ header {
     background-color: #35424a;
     color: white;
     text-align: center;
-    padding: 30px;
+    padding: 25px;
     border-bottom: 5px solid #d86aff;
 }
 
@@ -82,7 +82,7 @@ ul, ol {
 }
 
 .empresa {
-    color:#f988ff; /* Cambia este color al que prefieras */
+    color: #9a35c8; /* Cambia este color al que prefieras */
     font-weight: bold; /* Opcional: hace que el texto sea negrita */
 }
 
@@ -97,7 +97,7 @@ footer {
 }
 
 footer a {
-    color: #9a35c8;
+    color: #d86aff;
     text-decoration: none;
 }
 
